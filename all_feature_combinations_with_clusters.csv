@@ -1,0 +1,241 @@
+Dietary Habits,Transportation Modes,Energy Consumption,Waste Management,Cluster
+Vegan,Public Transport,Low Energy,Recycles,A
+Vegan,Public Transport,Low Energy,Composts,A
+Vegan,Public Transport,Low Energy,Recycles Occasionally,C
+Vegan,Public Transport,Low Energy,Low Recycling,C
+Vegan,Public Transport,Low Energy,Mostly Recycles,C
+Vegan,Public Transport,Moderate Energy,Recycles,C
+Vegan,Public Transport,Moderate Energy,Composts,C
+Vegan,Public Transport,Moderate Energy,Recycles Occasionally,C
+Vegan,Public Transport,Moderate Energy,Low Recycling,C
+Vegan,Public Transport,Moderate Energy,Mostly Recycles,C
+Vegan,Public Transport,High Energy,Recycles,C
+Vegan,Public Transport,High Energy,Composts,C
+Vegan,Public Transport,High Energy,Recycles Occasionally,C
+Vegan,Public Transport,High Energy,Low Recycling,C
+Vegan,Public Transport,High Energy,Mostly Recycles,C
+Vegan,Bike,Low Energy,Recycles,A
+Vegan,Bike,Low Energy,Composts,A
+Vegan,Bike,Low Energy,Recycles Occasionally,C
+Vegan,Bike,Low Energy,Low Recycling,C
+Vegan,Bike,Low Energy,Mostly Recycles,C
+Vegan,Bike,Moderate Energy,Recycles,C
+Vegan,Bike,Moderate Energy,Composts,C
+Vegan,Bike,Moderate Energy,Recycles Occasionally,C
+Vegan,Bike,Moderate Energy,Low Recycling,C
+Vegan,Bike,Moderate Energy,Mostly Recycles,C
+Vegan,Bike,High Energy,Recycles,C
+Vegan,Bike,High Energy,Composts,C
+Vegan,Bike,High Energy,Recycles Occasionally,C
+Vegan,Bike,High Energy,Low Recycling,C
+Vegan,Bike,High Energy,Mostly Recycles,C
+Vegan,Mixed Transportation,Low Energy,Recycles,A
+Vegan,Mixed Transportation,Low Energy,Composts,A
+Vegan,Mixed Transportation,Low Energy,Recycles Occasionally,C
+Vegan,Mixed Transportation,Low Energy,Low Recycling,C
+Vegan,Mixed Transportation,Low Energy,Mostly Recycles,C
+Vegan,Mixed Transportation,Moderate Energy,Recycles,C
+Vegan,Mixed Transportation,Moderate Energy,Composts,C
+Vegan,Mixed Transportation,Moderate Energy,Recycles Occasionally,C
+Vegan,Mixed Transportation,Moderate Energy,Low Recycling,C
+Vegan,Mixed Transportation,Moderate Energy,Mostly Recycles,C
+Vegan,Mixed Transportation,High Energy,Recycles,C
+Vegan,Mixed Transportation,High Energy,Composts,C
+Vegan,Mixed Transportation,High Energy,Recycles Occasionally,C
+Vegan,Mixed Transportation,High Energy,Low Recycling,C
+Vegan,Mixed Transportation,High Energy,Mostly Recycles,C
+Vegan,Car,Low Energy,Recycles,A
+Vegan,Car,Low Energy,Composts,A
+Vegan,Car,Low Energy,Recycles Occasionally,C
+Vegan,Car,Low Energy,Low Recycling,C
+Vegan,Car,Low Energy,Mostly Recycles,C
+Vegan,Car,Moderate Energy,Recycles,C
+Vegan,Car,Moderate Energy,Composts,C
+Vegan,Car,Moderate Energy,Recycles Occasionally,C
+Vegan,Car,Moderate Energy,Low Recycling,C
+Vegan,Car,Moderate Energy,Mostly Recycles,C
+Vegan,Car,High Energy,Recycles,C
+Vegan,Car,High Energy,Composts,C
+Vegan,Car,High Energy,Recycles Occasionally,C
+Vegan,Car,High Energy,Low Recycling,C
+Vegan,Car,High Energy,Mostly Recycles,C
+Vegetarian,Public Transport,Low Energy,Recycles,A
+Vegetarian,Public Transport,Low Energy,Composts,A
+Vegetarian,Public Transport,Low Energy,Recycles Occasionally,C
+Vegetarian,Public Transport,Low Energy,Low Recycling,C
+Vegetarian,Public Transport,Low Energy,Mostly Recycles,C
+Vegetarian,Public Transport,Moderate Energy,Recycles,C
+Vegetarian,Public Transport,Moderate Energy,Composts,C
+Vegetarian,Public Transport,Moderate Energy,Recycles Occasionally,C
+Vegetarian,Public Transport,Moderate Energy,Low Recycling,C
+Vegetarian,Public Transport,Moderate Energy,Mostly Recycles,C
+Vegetarian,Public Transport,High Energy,Recycles,C
+Vegetarian,Public Transport,High Energy,Composts,C
+Vegetarian,Public Transport,High Energy,Recycles Occasionally,C
+Vegetarian,Public Transport,High Energy,Low Recycling,C
+Vegetarian,Public Transport,High Energy,Mostly Recycles,C
+Vegetarian,Bike,Low Energy,Recycles,A
+Vegetarian,Bike,Low Energy,Composts,A
+Vegetarian,Bike,Low Energy,Recycles Occasionally,C
+Vegetarian,Bike,Low Energy,Low Recycling,C
+Vegetarian,Bike,Low Energy,Mostly Recycles,C
+Vegetarian,Bike,Moderate Energy,Recycles,C
+Vegetarian,Bike,Moderate Energy,Composts,C
+Vegetarian,Bike,Moderate Energy,Recycles Occasionally,C
+Vegetarian,Bike,Moderate Energy,Low Recycling,C
+Vegetarian,Bike,Moderate Energy,Mostly Recycles,C
+Vegetarian,Bike,High Energy,Recycles,C
+Vegetarian,Bike,High Energy,Composts,C
+Vegetarian,Bike,High Energy,Recycles Occasionally,C
+Vegetarian,Bike,High Energy,Low Recycling,C
+Vegetarian,Bike,High Energy,Mostly Recycles,C
+Vegetarian,Mixed Transportation,Low Energy,Recycles,A
+Vegetarian,Mixed Transportation,Low Energy,Composts,A
+Vegetarian,Mixed Transportation,Low Energy,Recycles Occasionally,C
+Vegetarian,Mixed Transportation,Low Energy,Low Recycling,C
+Vegetarian,Mixed Transportation,Low Energy,Mostly Recycles,C
+Vegetarian,Mixed Transportation,Moderate Energy,Recycles,C
+Vegetarian,Mixed Transportation,Moderate Energy,Composts,C
+Vegetarian,Mixed Transportation,Moderate Energy,Recycles Occasionally,C
+Vegetarian,Mixed Transportation,Moderate Energy,Low Recycling,C
+Vegetarian,Mixed Transportation,Moderate Energy,Mostly Recycles,C
+Vegetarian,Mixed Transportation,High Energy,Recycles,C
+Vegetarian,Mixed Transportation,High Energy,Composts,C
+Vegetarian,Mixed Transportation,High Energy,Recycles Occasionally,C
+Vegetarian,Mixed Transportation,High Energy,Low Recycling,C
+Vegetarian,Mixed Transportation,High Energy,Mostly Recycles,C
+Vegetarian,Car,Low Energy,Recycles,A
+Vegetarian,Car,Low Energy,Composts,A
+Vegetarian,Car,Low Energy,Recycles Occasionally,C
+Vegetarian,Car,Low Energy,Low Recycling,C
+Vegetarian,Car,Low Energy,Mostly Recycles,C
+Vegetarian,Car,Moderate Energy,Recycles,C
+Vegetarian,Car,Moderate Energy,Composts,C
+Vegetarian,Car,Moderate Energy,Recycles Occasionally,C
+Vegetarian,Car,Moderate Energy,Low Recycling,C
+Vegetarian,Car,Moderate Energy,Mostly Recycles,C
+Vegetarian,Car,High Energy,Recycles,C
+Vegetarian,Car,High Energy,Composts,C
+Vegetarian,Car,High Energy,Recycles Occasionally,C
+Vegetarian,Car,High Energy,Low Recycling,C
+Vegetarian,Car,High Energy,Mostly Recycles,C
+Flexitarian,Public Transport,Low Energy,Recycles,C
+Flexitarian,Public Transport,Low Energy,Composts,C
+Flexitarian,Public Transport,Low Energy,Recycles Occasionally,C
+Flexitarian,Public Transport,Low Energy,Low Recycling,C
+Flexitarian,Public Transport,Low Energy,Mostly Recycles,C
+Flexitarian,Public Transport,Moderate Energy,Recycles,B
+Flexitarian,Public Transport,Moderate Energy,Composts,B
+Flexitarian,Public Transport,Moderate Energy,Recycles Occasionally,B
+Flexitarian,Public Transport,Moderate Energy,Low Recycling,B
+Flexitarian,Public Transport,Moderate Energy,Mostly Recycles,B
+Flexitarian,Public Transport,High Energy,Recycles,C
+Flexitarian,Public Transport,High Energy,Composts,C
+Flexitarian,Public Transport,High Energy,Recycles Occasionally,C
+Flexitarian,Public Transport,High Energy,Low Recycling,C
+Flexitarian,Public Transport,High Energy,Mostly Recycles,C
+Flexitarian,Bike,Low Energy,Recycles,C
+Flexitarian,Bike,Low Energy,Composts,C
+Flexitarian,Bike,Low Energy,Recycles Occasionally,C
+Flexitarian,Bike,Low Energy,Low Recycling,C
+Flexitarian,Bike,Low Energy,Mostly Recycles,C
+Flexitarian,Bike,Moderate Energy,Recycles,B
+Flexitarian,Bike,Moderate Energy,Composts,B
+Flexitarian,Bike,Moderate Energy,Recycles Occasionally,B
+Flexitarian,Bike,Moderate Energy,Low Recycling,B
+Flexitarian,Bike,Moderate Energy,Mostly Recycles,B
+Flexitarian,Bike,High Energy,Recycles,C
+Flexitarian,Bike,High Energy,Composts,C
+Flexitarian,Bike,High Energy,Recycles Occasionally,C
+Flexitarian,Bike,High Energy,Low Recycling,C
+Flexitarian,Bike,High Energy,Mostly Recycles,C
+Flexitarian,Mixed Transportation,Low Energy,Recycles,C
+Flexitarian,Mixed Transportation,Low Energy,Composts,C
+Flexitarian,Mixed Transportation,Low Energy,Recycles Occasionally,C
+Flexitarian,Mixed Transportation,Low Energy,Low Recycling,C
+Flexitarian,Mixed Transportation,Low Energy,Mostly Recycles,C
+Flexitarian,Mixed Transportation,Moderate Energy,Recycles,B
+Flexitarian,Mixed Transportation,Moderate Energy,Composts,B
+Flexitarian,Mixed Transportation,Moderate Energy,Recycles Occasionally,B
+Flexitarian,Mixed Transportation,Moderate Energy,Low Recycling,B
+Flexitarian,Mixed Transportation,Moderate Energy,Mostly Recycles,B
+Flexitarian,Mixed Transportation,High Energy,Recycles,C
+Flexitarian,Mixed Transportation,High Energy,Composts,C
+Flexitarian,Mixed Transportation,High Energy,Recycles Occasionally,C
+Flexitarian,Mixed Transportation,High Energy,Low Recycling,C
+Flexitarian,Mixed Transportation,High Energy,Mostly Recycles,C
+Flexitarian,Car,Low Energy,Recycles,C
+Flexitarian,Car,Low Energy,Composts,C
+Flexitarian,Car,Low Energy,Recycles Occasionally,C
+Flexitarian,Car,Low Energy,Low Recycling,C
+Flexitarian,Car,Low Energy,Mostly Recycles,C
+Flexitarian,Car,Moderate Energy,Recycles,B
+Flexitarian,Car,Moderate Energy,Composts,B
+Flexitarian,Car,Moderate Energy,Recycles Occasionally,B
+Flexitarian,Car,Moderate Energy,Low Recycling,B
+Flexitarian,Car,Moderate Energy,Mostly Recycles,B
+Flexitarian,Car,High Energy,Recycles,C
+Flexitarian,Car,High Energy,Composts,C
+Flexitarian,Car,High Energy,Recycles Occasionally,C
+Flexitarian,Car,High Energy,Low Recycling,C
+Flexitarian,Car,High Energy,Mostly Recycles,C
+Omnivore,Public Transport,Low Energy,Recycles,C
+Omnivore,Public Transport,Low Energy,Composts,C
+Omnivore,Public Transport,Low Energy,Recycles Occasionally,C
+Omnivore,Public Transport,Low Energy,Low Recycling,C
+Omnivore,Public Transport,Low Energy,Mostly Recycles,C
+Omnivore,Public Transport,Moderate Energy,Recycles,C
+Omnivore,Public Transport,Moderate Energy,Composts,C
+Omnivore,Public Transport,Moderate Energy,Recycles Occasionally,C
+Omnivore,Public Transport,Moderate Energy,Low Recycling,C
+Omnivore,Public Transport,Moderate Energy,Mostly Recycles,C
+Omnivore,Public Transport,High Energy,Recycles,D
+Omnivore,Public Transport,High Energy,Composts,D
+Omnivore,Public Transport,High Energy,Recycles Occasionally,D
+Omnivore,Public Transport,High Energy,Low Recycling,D
+Omnivore,Public Transport,High Energy,Mostly Recycles,D
+Omnivore,Bike,Low Energy,Recycles,C
+Omnivore,Bike,Low Energy,Composts,C
+Omnivore,Bike,Low Energy,Recycles Occasionally,C
+Omnivore,Bike,Low Energy,Low Recycling,C
+Omnivore,Bike,Low Energy,Mostly Recycles,C
+Omnivore,Bike,Moderate Energy,Recycles,C
+Omnivore,Bike,Moderate Energy,Composts,C
+Omnivore,Bike,Moderate Energy,Recycles Occasionally,C
+Omnivore,Bike,Moderate Energy,Low Recycling,C
+Omnivore,Bike,Moderate Energy,Mostly Recycles,C
+Omnivore,Bike,High Energy,Recycles,D
+Omnivore,Bike,High Energy,Composts,D
+Omnivore,Bike,High Energy,Recycles Occasionally,D
+Omnivore,Bike,High Energy,Low Recycling,D
+Omnivore,Bike,High Energy,Mostly Recycles,D
+Omnivore,Mixed Transportation,Low Energy,Recycles,C
+Omnivore,Mixed Transportation,Low Energy,Composts,C
+Omnivore,Mixed Transportation,Low Energy,Recycles Occasionally,C
+Omnivore,Mixed Transportation,Low Energy,Low Recycling,C
+Omnivore,Mixed Transportation,Low Energy,Mostly Recycles,C
+Omnivore,Mixed Transportation,Moderate Energy,Recycles,C
+Omnivore,Mixed Transportation,Moderate Energy,Composts,C
+Omnivore,Mixed Transportation,Moderate Energy,Recycles Occasionally,C
+Omnivore,Mixed Transportation,Moderate Energy,Low Recycling,C
+Omnivore,Mixed Transportation,Moderate Energy,Mostly Recycles,C
+Omnivore,Mixed Transportation,High Energy,Recycles,D
+Omnivore,Mixed Transportation,High Energy,Composts,D
+Omnivore,Mixed Transportation,High Energy,Recycles Occasionally,D
+Omnivore,Mixed Transportation,High Energy,Low Recycling,D
+Omnivore,Mixed Transportation,High Energy,Mostly Recycles,D
+Omnivore,Car,Low Energy,Recycles,C
+Omnivore,Car,Low Energy,Composts,C
+Omnivore,Car,Low Energy,Recycles Occasionally,C
+Omnivore,Car,Low Energy,Low Recycling,C
+Omnivore,Car,Low Energy,Mostly Recycles,C
+Omnivore,Car,Moderate Energy,Recycles,C
+Omnivore,Car,Moderate Energy,Composts,C
+Omnivore,Car,Moderate Energy,Recycles Occasionally,C
+Omnivore,Car,Moderate Energy,Low Recycling,C
+Omnivore,Car,Moderate Energy,Mostly Recycles,C
+Omnivore,Car,High Energy,Recycles,D
+Omnivore,Car,High Energy,Composts,D
+Omnivore,Car,High Energy,Recycles Occasionally,D
+Omnivore,Car,High Energy,Low Recycling,D
+Omnivore,Car,High Energy,Mostly Recycles,D
